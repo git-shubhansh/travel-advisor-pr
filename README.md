@@ -1,6 +1,6 @@
 # travel-advisor-pr
 
-[Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
 
 The project consists of:
